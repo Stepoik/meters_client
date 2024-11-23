@@ -1,0 +1,9 @@
+<resources>
+    <string name="readings_transmitted">Данные по счетчикам переданы</string>
+    <string name="readings_not_transmitted">Данные по счетчикам не переданы</string>
+    <string name="pay">Оплатить</string>
+    <string name="add_account">Добавить счет</string>
+    <string name="personal_accounts">Лицевые счета</string>
+    <string name="new_personal_account">Новый лицевой счет</string>
+    <string name="send_readings">Отправить показания</string>
+</resources>

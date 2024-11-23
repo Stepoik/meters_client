@@ -1,0 +1,5 @@
+<resources>
+    <string name="profile">Профиль</string>
+    <string name="firstname">Имя</string>
+    <string name="lastname">Фамилия</string>
+</resources>
